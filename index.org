@@ -1,0 +1,129 @@
+* Jabir Aryabhatiya
+  aryabhatiya.aljebra@gmail.com
+  10234234332
+  H# X, #R Y, ABCD.
+
+* Reference projects and key responsibilities
+** Swapno Re-seller based prepaid Billing system
+*** Technical Lead, Software Global Consultancy
+   SGC GLOBAL (from May 2012) (5+ years)
+
+   This project is implemented form the scratch. Key responsibilities of this projects are -
+
+**** Concurrent and fault tolerant Application Development.
+**** Developing graphical interface (GUI) for Web and Mobile.
+**** Distributed database design and Query optimizations.
+**** Devops System Automation & Generative Testing.
+
+*** Technology Stack
+
+    | Javascript, Clojurescript | React, Redux, nodejs          | Functional Programming                    |
+    | Java, Clojure             | Micro services, GraphQL, Rest | Communication Sequential Processing (CSP) |
+    | Redis, Prostgresql        | ACID Transaction              | Relational Programming                    |
+    | Mocha, Chi, JUnit         | Clojure Specs                 | Property based testing                    |
+    | Docker, Shell             | Xen Virtualization             | Virtual Desktop (VDI)                     |
+    | ESP32, Intel Cherry Trail | Lua, 802.11ac                 | Rashberry PI                              |
+
+** Fractal Multimedia communication platform
+*** Senior Software Engineer, Fractal Labs
+    From (Feb 2008 - March 2012) (4+ years)
+
+    Application development on telecommunication platform Web and Mobile interface development.
+    Bug fixes for device drivers in Linux Kernel and Binary Protocol implementation. Call center application development.
+
+*** Technology Stack
+    | Javascript         | Ajex, jQuery         |
+    | C/C++              | System Programming   |
+    | Prostgresql        | SQL Query            |
+    | Perl, Python       | Awk Shell scripting  |
+    | SIP, SS7, Asterisk | Opensips, Freeshitch |
+
+** Mediator and Billing System for GP ringback service (PRBT) and Grameenphone trouble ticketing system
+*** System Engineer, Grameenphone
+    from (Feb 2007 - Jan 2008) (1 years)
+
+    | JAVA       | Network programming |
+    | Oracle     | Store procedure     |
+    | Javascript | HTML,CSS            |
+* Interactive Web and Mobile User Interface development
+
+  Rapid user interfaces Development and look & feel for Web, Android, iPhone are main
+  challenges which needs to be overcome. We overcome these challenges by choosing set of
+  tools and programming language that equally works for web, mobile development and
+  mastering on it.
+
+  In order to create user experience, We use to work with React and React Native for
+  Android and iPhone native UI development. I have adopted functional style of
+  programming with immutable data structure (Redux, GrapthQL) to manage complex UI interaction,
+  transition animation and real time notifications and messaging as well as keep
+  the code always manageable for further development.
+
+  CSS, HTML5, SVG, Canvas are essential part of UI look & feet and also
+  for make the UI responsive but one need to take special care when using these
+  technologies spatially when using CSS frameworks and JavaScript libraries.
+  Which often makes website bulky slower loading time and slower response time.
+  I used dead code elimination techniques using google Clojure compiler so that
+  web site never gets bulky.
+
+  Data Visualization i.e info graphics is very important part of user interface
+  design which empowers user so that user can understand whole business case at a glance.
+  We have used d3 and Vega as well as mathematics when convenient in our projects.
+
+* Concurrent and fault tolerant Application Development for Web and Internet of things (IOT)
+
+  Rise of cloud infrastructure and IOT devices make us thinking of current monolithic
+  application architecture. Estimated number of IOT devices will connect to web by 2020
+  will be 5 times total population of the earth; on the other hand in order to leverage cloud
+  infrastructure application needs to be concurrent, fault tolerant and distributed.
+  I use to work with immutable data structure because data mutation is a serious problem
+  for multi thread environment which causes deadlock and data loss and frequent crashing
+  and current solution semaphore locking and mutes doesn’t guaranties to avoid these circumstances.
+  I use communication sequential processing (CPS) to effective message passing between the threads
+  which can leverage thousands of threads over the cloud.
+
+  Micro services are necessary part of cloud infrastructure which leverage heterogeneous
+  programming languages work together. I have implemented Micro services with java, nodes,
+  python, clojure, c/c++ using by exposing Rest service and JSON data structure to
+  subscriber and Message Queues for real time notification. We had tough time ensuring
+  height availability and redundancy of micro services and update code one production server.
+  I am working on GraphQL, datalog, logic programming,  Erlang error handling mechanism to solve
+  the problems.
+* Embedded System for Internet of things (IOT).
+
+  Embedded System knowledge is must to join raise of IOT and System on Chip (SoC).
+  I stated my carrier in embedded system, difference between now and then is -
+  there is sufficient information available online and large number of PCB vendors,
+  even cost of making prototype is reasonable. I have done projects on  ESP32,
+  ESP8266 form PCB design to production no not mention I was in device driver team
+  for multimedia communication system based on Linux kernel where I need
+  to fix device related bugs and communication protocol related bugs. Only difficulties
+  I faced  now and then is a non technical issues of customs dispatching overhead,
+  courier services charges but we have our way to overcome these issues.
+
+* Devops System Automation, testing and writing specs
+
+  Fix a bug may introduce other bugs that why unit testing is very necessary to protect
+  overall integrity of the product from new change request. But it takes significant
+  amount time to write test cases not to mention some time we got reluctant and cover
+  every edge cases. I have introduced property base testing along with software specification
+  language so that test case can be auto generated.
+
+  Finally system automation is necessary, because it is nature of human to make mistake
+  and human learns from mistake. On the other hand machine breaks on error. In order
+  to feel this gap and keep whole system up and running from development to production
+  and maintenance we need to automate whole system with best practices and proven tactics
+  and keep it out of human intervention. This is why I use to work with linux over windows
+  to implement policy based devops systems and UI using Python, Javascirpt, AWK,
+  Shell scripting over the cloud architecture and build cloud architecture using Xen,
+  Docker and virtual desktop.
+* Education - BSC, Computer science
+
+  I have a solid academic background, I have participated programming contests and
+  perform quite well. My final project was - Design 32-bit processor using MISPs
+  instruction on Xlink FPGA
+
+* Personal Information
+
+  I was born in Dhaka in 8th October 1980. I spend my childhood in many corners of Bangladesh.
+  My father MD Gulam Kibria and My mother is Asia Akter, we are from district Netrokuna.
+  I am married to Rezwanna Sharmin. We have two daughters. We love our country.
